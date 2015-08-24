@@ -25,6 +25,13 @@ html, body {
 	padding-left: 15px;
 	padding-right: 15px;
 }
-code {
 	font-size: 80%;
 }
+
+
+.div-center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+
